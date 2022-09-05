@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="quantity">Amount</string>
+
+    <string-array name="unit_types_array">
+        <item>Temperature</item>
+        <item>Length</item>
+        <item>Mass</item>
+        <item>Speed</item>
+        <item>Volume</item>
+        <item>Area</item>
+        <item>Fuel consumption</item>
+        <item>Time</item>
+        <item>Digital storage</item>
+        <item>Data transfer</item>
+        <item>Energy</item>
+        <item>Frequency</item>
+        <item>Plane angle</item>
+        <item>Pressure</item>
+    </string-array>
+
+    <string-array name="temperature_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="length_array">
+        <item>Kilometre</item>
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Millimetre</item>
+        <item>Micrometre</item>
+        <item>Nanometre</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical mile</item>
+    </string-array>
+
+    <string-array name="mass_array">
+        <item>Tonne</item>
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Microgram</item>
+        <item>Imperial ton</item>
+        <item>US ton</item>
+        <item>Stone</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+    </string-array>
+
+    <string-array name="speed_array">
+        <item>Miles per hour</item>
+        <item>Foot per second</item>
+        <item>Meter per second</item>
+        <item>Kilometre per hour</item>
+        <item>Knot</item>
+    </string-array>
+
+    <string-array name="volume_array">
+        <item>US liquid gallon</item>
+        <item>US liquid quart</item>
+        <item>US liquid pint</item>
+        <item>US legal cup</item>
+        <item>US fluid ounce</item>
+        <item>US tablespoon</item>
+        <item>US teaspoon</item>
+        <item>Cubic meter</item>
+        <item>Litre</item>
+        <item>Millilitre</item>
+        <item>Imperial gallon</item>
+        <item>Imperial quart</item>
+        <item>Imperial pint</item>
+        <item>Imperial cup</item>
+        <item>Imperial fluid ounce</item>
+        <item>Imperial tablespoon</item>
+        <item>Imperial teaspoon</item>
+        <item>Cubic foot</item>
+        <item>Cubic inches</item>
+    </string-array>
+
+    <string-array name="area_array">
+        <item>Square kilometre</item>
+        <item>Square meter</item>
+        <item>Square mile</item>
+        <item>Square yard</item>
+        <item>Square foot</item>
+        <item>Hectare</item>
+        <item>Acre</item>
+    </string-array>
+
+    <string-array name="fuel_economy_array">
+        <item>Miles per gallon</item>
+        <item>Miles per gallon (Imperial)</item>
+        <item>Kilometre per liter</item>
+        <item>Liter per 100 kilometres</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>Nanosecond</item>
+        <item>Microsecond</item>
+        <item>Millisecond</item>
+        <item>Second</item>
+        <item>Minute</item>
+        <item>Hour</item>
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>
+        <item>Calendar year</item>
+        <item>Decade</item>
+        <item>Century</item>
+    </string-array>
+
+    <string-array name="digital_storage_array">
+        <item>Bit</item>
+        <item>Kilobit</item>
+        <item>Kibibit</item>
+        <item>Megabit</item>
+        <item>Mebibit</item>
+        <item>Gigabit</item>
+        <item>Gibibit</item>
+        <item>Terabit</item>
+        <item>Tebibit</item>
+        <item>Petabit</item>
+        <item>Pebibit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Kibibyte</item>
+        <item>Megabyte</item>
+        <item>Mebibyte</item>
+        <item>Gigabyte</item>
+        <item>Gibibyte</item>
+        <item>Terabyte</item>
+        <item>Tebibyte</item>
+        <item>Petabyte</item>
+        <item>Pebibyte</item>
+    </string-array>
+
+    <string-array name="data_transfer_array">
+        <item>Bit per second</item>
+        <item>Kilobit per second</item>
+        <item>Kilobyte per second</item>
+        <item>Kibibit per second</item>
+        <item>Megabit per second</item>
+        <item>Megabyte per second</item>
+        <item>Mebibit per second</item>
+        <item>Gigabit per second</item>
+        <item>Gigabyte per second</item>
+        <item>Gibibit per second</item>
+        <item>Terabit per second</item>
+        <item>Terabyte per second</item>
+        <item>Tebibit per second</item>
+    </string-array>
+
+    <string-array name="energy_array">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Gram calorie</item>
+        <item>Kilocalorie</item>
+        <item>Watt hour</item>
+        <item>Kilowatt hour</item>
+        <item>Electronvolt</item>
+        <item>British thermal unit</item>
+        <item>US therm</item>
+        <item>Foot-pound</item>
+    </string-array>
+
+    <string-array name="frequency_array">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+
+    <string-array name="plane_angle_array">
+        <item>Degree</item>
+        <item>Gradian</item>
+        <item>Milliradian</item>
+        <item>Minute of arc</item>
+        <item>Radian</item>
+        <item>Second of arc</item>
+    </string-array>
+
+    <string-array name="pressure_array">
+        <item>Bar</item>
+        <item>Pascal</item>
+        <item>Pound per square inch</item>
+        <item>Standard atmosphere</item>
+        <item>Torr</item>
+    </string-array>
+</resources>
